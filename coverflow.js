@@ -101,11 +101,11 @@ function coverflowimages(options) {
 coverflowimages({
     coverid: 'coverflow1',
     images: [
-        ['C:/Users/25471/Desktop/labjsanimation/image1.jpg', 'Classics songs'],
-        ['C:/Users/25471/Desktop/labjsanimation/image2.jpg', 'Love songs'],
-        ['C:/Users/25471/Desktop/labjsanimation/image3.jpg', 'The blues'],
-        ['C:/Users/25471/Desktop/labjsanimation/image4.jpg', 'RnB songs'],
-        ['C:/Users/25471/Desktop/labjsanimation/image1.jpg', 'Old hit songs'],
-        ['C:/Users/25471/Desktop/labjsanimation/image2.jpg', 'Beautiful love songs'],
+        ['image1.jpg', 'Classics songs'],
+        ['image2.jpg', 'Love songs'],
+        ['image3.jpg', 'The blues'],
+        ['image4.jpg', 'RnB songs'],
+        ['image1.jpg', 'Old hit songs'],
+        ['image2.jpg', 'Beautiful love songs'],
     ]
 });
